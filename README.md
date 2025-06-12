@@ -106,7 +106,6 @@ Q11. WAP to calculate the time taken by a program.
 
 Q12. WAP to sort following number of elements in a list, calculate time taken and plot the graph.
 
-![image](https://github.com/user-attachments/assets/0150777c-4894-46fd-bd7a-fcb5e12eb6bf)
 ![image](https://github.com/user-attachments/assets/0e735631-cd50-4c9c-a6fe-e9fa4b732a7d)
 
 Q13. WAP to create a dictionary of student marks in five subjects and you have to find the student having maximum and minimum average marks.
