@@ -15,6 +15,7 @@ Q1. L is a list defined as L= [11, 12, 13, 14].
 (x) WAP to sum all PRIME numbers in L.
 (xi) WAP to clear all the elements in L.
 (xii) WAP to delete L.
+
 Q2. D is a dictionary defined as D= {1:5.6, 2:7.8, 3:6.6, 4:8.7, 5:7.7}.
 (i) WAP to add new entry in D; key=8 and value is 8.8
 (ii) WAP to remove key=2.
